@@ -26,6 +26,7 @@ header h1 .seo {
 
 .nav {
     padding-top: 15px;
+    margin-top: -70px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -44,8 +45,6 @@ header h1 .seo {
 .nav a {
     color: #ffffff;
     text-decoration: none;
-   
-
 }
 
 p {
