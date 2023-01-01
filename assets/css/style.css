@@ -6,8 +6,6 @@
 
 body {
     background-color: #d9dcd6;
-    display: inline-block;
-    margin-right: 0px;
 }
 
 header {
@@ -51,7 +49,7 @@ header h1 .seo {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
     text-align: left;
 }
 
@@ -63,7 +61,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-
 
 section {
     display: inline-block; 
@@ -89,7 +86,7 @@ section {
 
 .benefits-container {
     margin-top: -640px;
-    margin-right: -400px;
+    margin-right: -340px;
     display: inline-block;
     padding: 20px;
     clear: both;
@@ -114,12 +111,6 @@ section {
 h3 {
     margin-top: 30px;
     margin-bottom: 32px;
-}
-
-
-.benefit-lead h3 {
-
-    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -156,11 +147,9 @@ h2 {
 }
 
 .footer {
-    padding: 10px;
-    clear: both;
+    padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    margin-top: 0px;
 }
 
 .footer h2 {
