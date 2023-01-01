@@ -26,7 +26,14 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+<<<<<<< HEAD
 /* Changed divs to nav for navigation bar */
+=======
+<<<<<<< HEAD
+/* Changed divs to nav for navigation bar */
+=======
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
 .nav {
     padding-top: 15px;
     margin-top: -70px;
@@ -64,7 +71,14 @@ p {
     background-position: center;
 }
 
+<<<<<<< HEAD
 /* Created section for semantic structure */
+=======
+<<<<<<< HEAD
+/* Created section for semantic structure */
+=======
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
 section {
     display: inline-block; 
     
@@ -79,7 +93,15 @@ section {
     float: right;
     margin-left: 25px;
 }
+<<<<<<< HEAD
 /* Added content and benefit container for consistant styling */
+=======
+<<<<<<< HEAD
+/* Added content and benefit container for consistant styling */
+=======
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
 .content-container {
     float: left;
     display: inline-block;
@@ -87,6 +109,14 @@ section {
     margin-left: 20px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
 .benefits-container {
     margin-top: -640px;
     margin-right: -340px;
@@ -108,12 +138,28 @@ section {
 }
 /* Added a 2nd styling class to indicate top margin for 1 of the elements in benefit class*/
 .benefit-heading2 {
+<<<<<<< HEAD
+=======
     margin-top: 30px;
     margin-bottom: 32px;
+<<<<<<< HEAD
 }
 
 /* Combined h3s for same styling element */
 h3 {
+=======
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
+    margin-top: 30px;
+    margin-bottom: 32px;
+}
+
+<<<<<<< HEAD
+/* Combined h3s for same styling element */
+h3 {
+=======
+.benefit-lead h3 {
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
     margin-bottom: 10px;
     text-align: center;
 }
@@ -136,10 +182,28 @@ h3 {
 }
 
 .section-boxes img {
+<<<<<<< HEAD
     max-height: 200px;
 }
 
 /* Combined h2s for same styling element */
+=======
+    max-height: 200px;
+}
+
+<<<<<<< HEAD
+/* Combined h2s for same styling element */
+=======
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -160,5 +224,13 @@ h2 {
 
 .footer p {
     text-align: center;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
+>>>>>>> 1dd451cb3a99ca17f0170061f26d70a966472121
 }
 
