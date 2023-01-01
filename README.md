@@ -1,4 +1,4 @@
-https://github.com/Vanese15/Front-end-Refactor-Mock-Up
+https://vanese15.github.io/Front-end-Refactor-Mock-Up/
 
 # Homework
 
