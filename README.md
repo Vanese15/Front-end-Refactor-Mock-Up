@@ -1,3 +1,4 @@
+![Horiseon Img](https://user-images.githubusercontent.com/16092802/210162584-7c16d8bd-a318-47d2-b5e2-908855f6a285.jpg)
 # Homework
 
 For the 1st challenge my motivation was to refactor a client's existing webpage, making the existing code concise and web accessible.  Web accessibility ensures people with disabilities can access websites using assistive technologies like video captions, screen readers, and braille keyboards.  I modified the existing code to follow the semantic structure of HTML elements and included comments before each element/section of the page to provide clarity for any developer making edits after I’ve completed the project. 
