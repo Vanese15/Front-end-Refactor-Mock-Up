@@ -26,7 +26,10 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+<<<<<<< HEAD
 /* Changed divs to nav for navigation bar */
+=======
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
 .nav {
     padding-top: 15px;
     margin-top: -70px;
@@ -64,7 +67,10 @@ p {
     background-position: center;
 }
 
+<<<<<<< HEAD
 /* Created section for semantic structure */
+=======
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
 section {
     display: inline-block; 
     
@@ -79,14 +85,24 @@ section {
     float: right;
     margin-left: 25px;
 }
+<<<<<<< HEAD
 /* Added content and benefit container for consistant styling */
+=======
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
 .content-container {
     float: left;
     display: inline-block;
     width: 78%;
     margin-left: 20px;
+    
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
 .benefits-container {
     margin-top: -640px;
     margin-right: -340px;
@@ -110,10 +126,24 @@ section {
 .benefit-heading2 {
     margin-top: 30px;
     margin-bottom: 32px;
+<<<<<<< HEAD
 }
 
 /* Combined h3s for same styling element */
 h3 {
+=======
+    margin-top: 30px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    margin-top: 30px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
     margin-bottom: 10px;
     text-align: center;
 }
@@ -139,7 +169,18 @@ h3 {
     max-height: 200px;
 }
 
+<<<<<<< HEAD
 /* Combined h2s for same styling element */
+=======
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -160,5 +201,10 @@ h2 {
 
 .footer p {
     text-align: center;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fc09d407a7b4dce67274a69334f0b1fa97c343ea
 }
 
